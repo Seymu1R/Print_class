@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\bin\Debug\netcoreapp3.1\Print_class.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\bin\Debug\netcoreapp3.1\Print_class.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\bin\Debug\netcoreapp3.1\Print_class.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\bin\Debug\netcoreapp3.1\Print_class.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\bin\Debug\netcoreapp3.1\Print_class.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\bin\Debug\netcoreapp3.1\Print_class.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\obj\Debug\netcoreapp3.1\Print_class.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\obj\Debug\netcoreapp3.1\Print_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\obj\Debug\netcoreapp3.1\Print_class.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\obj\Debug\netcoreapp3.1\Print_class.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\obj\Debug\netcoreapp3.1\Print_class.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\obj\Debug\netcoreapp3.1\Print_class.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\obj\Debug\netcoreapp3.1\Print_class.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Print_class\Print_class\Print_class\obj\Debug\netcoreapp3.1\Print_class.genruntimeconfig.cache
